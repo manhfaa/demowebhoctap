@@ -1,0 +1,15 @@
+.border-radius {
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 8px;
+    word-wrap: break-word;
+    background-color: #fff; /* add a white background to make the border visible */
+  }
+  .border-radius {
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 8px;
+    word-wrap: break-word;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* add a shadow effect */
+  }
